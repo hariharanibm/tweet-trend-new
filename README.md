@@ -1,4 +1,4 @@
-# trend application
+# trend application from Valaxy Team
 
 This is a small applicaiton which contains main and test folders.  
 Main contains application code.  
