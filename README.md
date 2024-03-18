@@ -1,4 +1,4 @@
-# trend application from valaxy team Bangalore
+# trend application from valaxy team mr Ravi shankar
 
 This is a small applicaiton which contains main and test folders.  
 Main contains application code.  
