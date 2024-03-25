@@ -1,4 +1,4 @@
-# trend application from valaxy team by Ravi Shankar, SRE
+# trend application from valaxy team Mr Ravi Shankar, SRE
 
 This is a small applicaiton which contains main and test folders.  
 Main contains application code.  
